@@ -3,4 +3,4 @@
 
 
 
-<p style='text-align: center;'>Speedometer standalone Script</p>
+<p align='center'>Speedometer standalone Script</p>
